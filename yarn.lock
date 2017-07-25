@@ -2017,6 +2017,10 @@ dev-ip@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/dev-ip/-/dev-ip-1.0.1.tgz#a76a3ed1855be7a012bb8ac16cb80f3c00dc28f0"
 
+dhtmlx-scheduler@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/dhtmlx-scheduler/-/dhtmlx-scheduler-4.4.0.tgz#049e8519c16973981b114c136d56c09a91a8aac0"
+
 diffie-hellman@^5.0.0:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/diffie-hellman/-/diffie-hellman-5.0.2.tgz#b5835739270cfe26acf632099fded2a07f209e5e"
